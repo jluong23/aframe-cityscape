@@ -1,1 +1,2 @@
-includes_dir: low_poly_city_pack
+include:
+  - "low_poly_city_pack/"
