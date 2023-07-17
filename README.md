@@ -4,7 +4,7 @@ A basic XR city to explore, built with A-Frame.
 
 [City model](https://sketchfab.com/3d-models/low-poly-city-pack-7f671f35e9ad4149b83451a3a92a6e2e) from [vdv77](https://sketchfab.com/vdv77) (Sketchfab)
 
-Deployed on Github Pages [here](https://jluong23.github.io/aframe-cityscape/)
+~~Deployed on Github Pages [here](https://jluong23.github.io/aframe-cityscape/)~~
 
 <img src="./screenshots//vr.gif"/>
 
