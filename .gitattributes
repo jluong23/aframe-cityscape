@@ -1,1 +1,1 @@
-low_poly_city_pack/scene.bin filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
